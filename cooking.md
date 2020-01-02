@@ -2,9 +2,9 @@
 title: Cooking
 description: How to switch off the gas and produce less carbon emessions with electric
 published: true
-date: 2020-01-02T10:33:36.961Z
+date: 2020-01-02T13:00:41.726Z
 tags: 
 ---
 
-# Header
-Your content here
+# Cooking
+The gas cooktop has been a mainstay for many houses. However, great electric solutions to gas cooking are now available. This page provides resources on induction cooking.
