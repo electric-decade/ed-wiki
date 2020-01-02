@@ -2,9 +2,9 @@
 title: Heating and Cooling
 description: Electric solutions for heating and cooling
 published: true
-date: 2020-01-02T10:34:41.290Z
+date: 2020-01-02T12:58:47.093Z
 tags: 
 ---
 
-# Header
-Your content here
+# Heating and Cooling
+Many people have already shifted from gas heating to split system heating and cooling. 
