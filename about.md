@@ -2,12 +2,12 @@
 title: About Electric Decade
 description: About the electric decade website
 published: true
-date: 2020-01-03T01:17:13.356Z
+date: 2020-01-03T02:55:35.416Z
 tags: 
 ---
 
 # About
-The electric decade web site was created on the 1st of January 2020.  The site will aim to provide people with useful information to aid in making the switch away from fossil fuels in their daily life.  Our daily use of fossil fuels is embedded as part of our houses, so making the switch can be a slow process.  However, when the kitchen is being renovated, the hot water breaks, or a new car is on the cards, this site will provide the information to go electric.
+The electric decade web site was created on the 1st of January 2020.  It was started after the witnessing the horendous fires of 2019 and to provide people with real solutions to reducing their reliance on fossil fuels. The site will aim to provide people with useful information to aid in making the switch away from fossil fuels in their daily life.  Our daily use of fossil fuels is embedded as part of our houses, so making the switch can be a slow process.  However, when the kitchen is being renovated, the hot water breaks, or a new car is on the cards, this site will provide the information to go electric.
 
 ## Stone Soup
 This website is being put together and run using the Stone Soup recipe.
