@@ -2,7 +2,7 @@
 title: Electric Vehicles
 description: Answering questions to electric vehicles
 published: true
-date: 2020-01-04T11:39:18.330Z
+date: 2020-01-04T11:57:09.210Z
 tags: 
 ---
 
@@ -21,3 +21,8 @@ Yes. The Australian PV institute says the average Australian [solar pv system si
 ### Won't I need to replace the battery?
 
 Not likely. Electric vehicles in general come with an eight year and 160,000km warranty.  There are [stories of people driving their electric vehicle over 1million km](https://thedriven.io/2019/11/29/tesla-model-s-busts-ev-myths-with-historic-1-million-kilometres-driven/) having only replaced the battery once. So a single battery has lasted over 500,000km.
+
+### Aren't electric vehicles expensive?
+
+Yes, but it depends on your budget. Unfortunately for many people with a budget of less than $50,000 AUD for a car, an electric vehicle is too expensive.  However, if your budget stretches to this and beyond an electric car has lower running costs and lower servicing costs than other cars.
+
