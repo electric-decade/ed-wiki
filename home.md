@@ -1,9 +1,9 @@
 ---
 title: Electric decade
-description: Resources to stop using fossil fuels
+description: Resources to stop using fossil fuels at home
 published: true
-date: 2020-01-04T01:37:11.243Z
-tags: 
+date: 2020-01-04T01:39:33.009Z
+tags: electric home, electric vehicles, electric hot water, induction cooking
 ---
 
 # Electric Decade
