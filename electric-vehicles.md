@@ -2,7 +2,7 @@
 title: Electric Vehicles
 description: Answering questions to electric vehicles
 published: true
-date: 2020-01-04T11:22:22.738Z
+date: 2020-01-04T11:32:19.134Z
 tags: 
 ---
 
@@ -17,3 +17,7 @@ No. A [study](https://www.researchgate.net/publication/328782184_Where_are_we_he
 ### Can I charge an electric vehicle from solar panels?
 
 Yes. The Australian PV institute says the average Australian [solar pv system size](https://pv-map.apvi.org.au/analyses) is currently 7kw. That will produce an average of 28kwh of energy a day.  That's enough to energy to drive an electric vehicle over 180km. If your car is at home an hour or two in sunlight every day and you drive less than 200km a week you'd never pay for to drive.
+
+### Won't I need to replace the battery?
+
+Not likely. Electric vehicles in general come with an eight year and 160,000km warranty.  There are stories of people driving their electric vehicle over 1million km having only replaced the battery once. So a single battery has lasted over 500,000km.
