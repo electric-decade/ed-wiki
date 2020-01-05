@@ -2,7 +2,7 @@
 title: Electric Vehicles
 description: Answering questions to electric vehicles
 published: true
-date: 2020-01-04T11:57:09.210Z
+date: 2020-01-05T02:47:22.737Z
 tags: 
 ---
 
@@ -20,7 +20,7 @@ Yes. The Australian PV institute says the average Australian [solar pv system si
 
 ### Won't I need to replace the battery?
 
-Not likely. Electric vehicles in general come with an eight year and 160,000km warranty.  There are [stories of people driving their electric vehicle over 1million km](https://thedriven.io/2019/11/29/tesla-model-s-busts-ev-myths-with-historic-1-million-kilometres-driven/) having only replaced the battery once. So a single battery has lasted over 500,000km.
+Not likely. Electric vehicles in general come with an eight year and 160,000km warranty.  There are [stories of people driving their electric vehicle over 1million km](https://thedriven.io/2019/11/29/tesla-model-s-busts-ev-myths-with-historic-1-million-kilometres-driven/) having only replaced the battery once. So a single battery has lasted over 500,000km. Tesla is also [taking out patents aiming](https://www.popularmechanics.com/cars/hybrid-electric/a30346407/tesla-patent-battery-chemistry/) to build batteries that last over 1.6 million km (1 million miles).
 
 ### Aren't electric vehicles expensive?
 
